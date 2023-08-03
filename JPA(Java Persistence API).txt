@@ -1,0 +1,23 @@
+JPA(Java Persistence API)
+
+-JPA is basically ORM tool.ORM(Object Relational mapping) ORM tool handled the MYSQL Query.If you have used the ORM tools,then you don't need to write MYSQL Query.
+
+-ORM tools also used for saved the object from database
+
+-Hibernate Implementation JPA
+
+-JPA Provided two interfaces
+   
+
+    1-EntityManagerFactory
+    2-EntityManager
+
+
+-EntityManager basically provided those method,we required(Create,Update,Read,Delete)
+
+-Spring Makes easier to perform operation with JPA
+
+-JpaRepository is a JPA (Java Persistence API) specific extension of Repository.
+ 
+-It contains the full API of CrudRepository and PagingAndSortingRepository. So it contains API for basic CRUD operations and also API for pagination and sorting.
+
